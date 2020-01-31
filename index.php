@@ -114,53 +114,53 @@
         <div class="container text-center">
             <h2 class="block_title">Meus Trabalhos</h2>
             <div class="row port cs-style-3">
-                <div class="col-md-4 col-sm-6 col-xs-12 item-space">                    
-                        <figure>
+                <div class="col-md-4 col-sm-6 col-xs-12 item-space">
+                    <figure>
                         <a href="https://www.behance.net/gallery/84126885/Site-Parceria-Facil" target="_blank">
                             <img src="assets/images/project-1.png" alt="img04">
                         </a>
-                            <figcaption>
-                                <h3>Site | Parceria Fácil</h3>
-                                <span></span>
-                                <a href="https://www.behance.net/gallery/84126885/Site-Parceria-Facil" class="button" target="_blank"></a>
-                            </figcaption>
-                        </figure>
+                        <figcaption>
+                            <h3>Site | Parceria Fácil</h3>
+                            <span></span>
+                            <a href="https://www.behance.net/gallery/84126885/Site-Parceria-Facil" class="button" target="_blank"></a>
+                        </figcaption>
+                    </figure>
                 </div>
                 <div class="col-md-4 col-sm-6 col-xs-12 item-space">
-                        <figure>
+                    <figure>
                         <a href="https://www.behance.net/gallery/80337139/Site-Invests-Securely" target="_blank">
                             <img src="assets/images/project-2.png" alt="img01">
                         </a>
-                            <figcaption>
-                                <h3>Site | Invests Securely</h3>
-                                <span></span>
-                                <a href="https://www.behance.net/gallery/80337139/Site-Invests-Securely" class="button" target="_blank"></a>
-                            </figcaption>
-                        </figure>
+                        <figcaption>
+                            <h3>Site | Invests Securely</h3>
+                            <span></span>
+                            <a href="https://www.behance.net/gallery/80337139/Site-Invests-Securely" class="button" target="_blank"></a>
+                        </figcaption>
+                    </figure>
                 </div>
                 <div class="col-md-4 col-sm-6 col-xs-12 item-space">
-                        <figure>
+                    <figure>
                         <a href="https://blogtech.boxgamemobile.com.br/" target="_blank">
                             <img src="assets/images/project-3.png" alt="img02">
                         </a>
-                            <figcaption>
-                                <h3>Site | BlogTech</h3>
-                                <span></span>
-                                <a href="https://blogtech.boxgamemobile.com.br/" class="button" target="_blank"></a>
-                            </figcaption>
-                        </figure>
+                        <figcaption>
+                            <h3>Site | BlogTech</h3>
+                            <span></span>
+                            <a href="https://blogtech.boxgamemobile.com.br/" class="button" target="_blank"></a>
+                        </figcaption>
+                    </figure>
                 </div>
                 <div class="col-md-4 col-sm-6 col-xs-12 col-md-offset-4 item-space">
-                        <figure>
+                    <figure>
                         <a href="https://www.behance.net/gallery/82439647/Template-Estudio" target="_blank">
                             <img src="assets/images/project-4.png" alt="img04">
                         </a>
-                            <figcaption>
-                                <h3>Site | Estúdio</h3>
-                                <span></span>
-                                <a href="https://www.behance.net/gallery/82439647/Template-Estudio" class="button" target="_blank"></a>
-                            </figcaption>
-                        </figure>
+                        <figcaption>
+                            <h3>Site | Estúdio</h3>
+                            <span></span>
+                            <a href="https://www.behance.net/gallery/82439647/Template-Estudio" class="button" target="_blank"></a>
+                        </figcaption>
+                    </figure>
                 </div>
                 <div class="col-xs-12">
                     <div class="btn-center"><a href="https://www.behance.net/vcesar" class="big button" target="_blank">Perfil no Behance</a></div>
@@ -290,7 +290,7 @@
         <div class="container">
             <div class="row text-center">
                 <div class="col-sm-6">
-                    <p class="copyright">© Copyright 2020 <a href="https://viniciuscesar.com/" target="_blank">viniciuscesar.com</a></p>
+                    <p class="copyright">© Copyright <?php echo date("Y"); ?> <a href="https://viniciuscesar.com/" target="_blank">viniciuscesar.com</a></p>
                 </div>
                 <div class="col-sm-6">
                     <p class="copyright">Desenvolvido por Vinicius Cesar</p>
