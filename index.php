@@ -167,6 +167,12 @@
                 </div>
             </div>
         </div>
+        <div class="container text-center">
+            <h2 class="block_title">LinkedIn</h2>
+            <div style="text-align: center;" class="row text-center port cs-style-3">
+                <div style="margin: 0 auto;" class="LI-profile-badge" data-version="v1" data-size="medium" data-locale="pt_BR" data-type="vertical" data-theme="dark" data-vanity="viniciusanchieta"><a class="LI-simple-link" href='https://br.linkedin.com/in/viniciusanchieta?trk=profile-badge'>Vinicius Cesar Rodrigues Anchieta</a></div>
+            </div>
+        </div>
     </section>
     <section id="testimonial" class="testimonial-area">
         <div class="container">
@@ -411,6 +417,7 @@
         });
     </script>
     <!-- Necessery scripts -->
+    <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
     <script src="assets/js/jquery-2.1.3.min.js"></script>
     <script src="assets/js/bootstrap.min.js"></script>
     <script src="assets/js/jquery.actual.min.js"></script>
