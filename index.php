@@ -170,7 +170,7 @@
         <div class="container text-center">
             <h2 class="block_title">LinkedIn</h2>
             <div class="row text-center port cs-style-3 text-center">
-                <div style="margin: 0 auto;" class="LI-profile-badge" data-version="v1" data-size="medium" data-locale="pt_BR" data-type="vertical" data-theme="dark" data-vanity="viniciusanchieta"><a class="LI-simple-link" href='https://br.linkedin.com/in/viniciusanchieta?trk=profile-badge'>Vinicius Cesar Rodrigues Anchieta</a></div>
+                <div class="LI-profile-badge" data-version="v1" data-size="medium" data-locale="pt_BR" data-type="vertical" data-theme="dark" data-vanity="viniciusanchieta"><a class="LI-simple-link" title="Perfil - Vinicius Cesar Rodrigues Anchieta no LinkedIn" href='https://br.linkedin.com/in/viniciusanchieta?trk=profile-badge'>Vinicius Cesar Rodrigues Anchieta</a></div>
             </div>
         </div>
     </section>
