@@ -795,3 +795,7 @@ canvas{
 .send-email .text-send-email{
 	font-size: 20px;
 }
+
+.text-center{
+	text-align: center;
+}
