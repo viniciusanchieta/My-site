@@ -15,6 +15,14 @@
     <meta name="language" content="PT-BR">
     <meta name="Classification" content="Business">
 
+    <meta property="og:description" content="Seu negócio precisa de um site? Entre em contato com o desenvolvedor Vinicius Cesar.">
+    <meta property="og:image" content="https://viniciuscesar.com/assets/images/img.jpg">
+    <meta property="og:url" content="https://viniciuscesar.com/">
+    <meta name="twitter:title" content="Desenvolvedor Vinicius Cesar">
+    <meta name="twitter:description" content="Seu negócio precisa de um site? Entre em contato com o desenvolvedor Vinicius Cesar.">
+    <meta name="twitter:image" content="https://viniciuscesar.com/assets/images/img.jpg">
+    <meta name="twitter:card" content="summary_large_image">
+
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/font_icon/css/pe-icon-7-stroke.css">
     <link rel="stylesheet" href="assets/font_icon/css/helper.css">
