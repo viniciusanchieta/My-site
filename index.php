@@ -123,7 +123,7 @@
             <h2 class="block_title">Sobre mim</h2>
             <div class="row">
                 <div class="col-md-8 col-sm-12">
-                    <div class="text-about wow swing">
+                    <div class="text-about wow bounceInDown">
                        <p class="title text-center">Meu nome é Vinicius Cesar</p>
                        <p>Aos 15 anos, após um vestibular, me ingressei em uma escola técnica (ETEC) e foi nesse momento que eu descobri o poder da tecnologia.</p>
                        <p>Sempre fui uma pessoa muito curiosa e isso me consolidou vários conhecimentos voltados para o desenvolvimento de sistemas e entre elas eu destaco (PHP, JavaScript, HTML, CSS, MYSQL, SQL e MongoDB).</p>
@@ -132,7 +132,7 @@
                     </div>
                 </div>
                 <div class="col-md-4 col-sm-6">
-                    <div class="img-about wow swing">
+                    <div class="img-about wow bounceInDown">
                        <img src="https://i.imgur.com/qWVvE4L.png"  class="img-responsive" alt="Imagem Desenvolvedor Vinicius Cesar">
                     </div>
                 </div>
@@ -211,7 +211,7 @@
                 </div>
                 <div id="testimonial-container" class="col-xs-12">
                     <div class="testimonila-block wow bounceInUp">
-                        <img src="./assets/images/1.jfif" alt="Lucas Schimidt" class="selfshot">
+                        <img src="./assets/images/1.jfif" alt="Lucas Schimidt Desenvolvedor Vinicius Cesar" class="selfshot">
                         <p>
                             Vinícius é um jovem talento com muito potencial. É muito criativo e possui grande habilidade
                             com tecnologia. Tem um perfil inovador, além de ter princípios éticos muito sólidos em suas
@@ -224,7 +224,7 @@
                         <p>Via: LinkedIn</p>
                     </div>
                     <div class="testimonila-block wow bounceInDown">
-                        <img src="./assets/images/0.jfif" alt="Ana Laura Almeida" class="selfshot">
+                        <img src="./assets/images/0.jfif" alt="Depoimento Ana Laura Almeida Desenvolvedor Vinicius Cesar" class="selfshot">
                         <p>
                             Conheci Vinícius no programa de Jovem Aprendiz e faço questão de mantê-lo em minhas
                             conexões. É um profissional excelente, sempre preocupado com a qualidade de seu trabalho,
