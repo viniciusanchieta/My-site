@@ -118,6 +118,27 @@
             </div>
         </div>
     </section>
+    <section id="about" class="about-area">
+        <div class="container">
+            <h2 class="block_title">Sobre mim</h2>
+            <div class="row">
+                <div class="col-md-8 col-sm-12">
+                    <div class="text-about wow swing">
+                       <p class="title text-center">Meu nome é Vinicius Cesar</p>
+                       <p>Aos 15 anos, após um vestibular, me ingressei em uma escola técnica (ETEC) e foi nesse momento que eu descobri o poder da tecnologia.</p>
+                       <p>Sempre fui uma pessoa muito curiosa e isso me consolidou vários conhecimentos voltados para o desenvolvimento de sistemas e entre elas eu destaco (PHP, JavaScript, HTML, CSS, MYSQL, SQL e MongoDB).</p>
+                       <p>Gosto de incluir a tecnologia como facilitadora de processos e com isso foquei em conquistar uma visão ampla para criação de aplicações voltadas as necessidades, sempre atuando com automatização, otimização, inovação e pensamento estratégico. </p>
+                       <p>Atualmente, por ser muito curioso, estou desenvolvendo habilidades para a segurança da informação, através de muitos estudos. Com essa nova habilidade, o BACK-END das aplicações que estarei desenvolvendo, terá um poder maior voltados para a confidencialidade, com isso, o usuário terá maior segurança no momento que ele manipular suas informações.</p>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-6">
+                    <div class="img-about wow swing">
+                       <img src="https://i.imgur.com/qWVvE4L.png"  class="img-responsive" alt="Imagem Desenvolvedor Vinicius Cesar">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
     <section id="portfolio" class="portfolio-area">
         <div class="container text-center">
             <h2 class="block_title">Meus Trabalhos</h2>
@@ -125,7 +146,7 @@
                 <div class="col-md-4 col-sm-6 col-xs-12 item-space">
                     <figure>
                         <a href="https://www.behance.net/gallery/84126885/Site-Parceria-Facil" target="_blank">
-                            <img src="assets/images/project-1.png" alt="img04">
+                            <img src="assets/images/project-1.png" alt="Imagem site Parceria Fácil Desenvolvedor Vinicius Cesar">
                         </a>
                         <figcaption>
                             <h3>Site | Parceria Fácil</h3>
@@ -137,7 +158,7 @@
                 <div class="col-md-4 col-sm-6 col-xs-12 item-space">
                     <figure>
                         <a href="https://www.behance.net/gallery/80337139/Site-Invests-Securely" target="_blank">
-                            <img src="assets/images/project-2.png" alt="img01">
+                            <img src="assets/images/project-2.png" alt="Imagem site de investimentos Desenvolvedor Vinicius Cesar">
                         </a>
                         <figcaption>
                             <h3>Site | Invests Securely</h3>
@@ -149,7 +170,7 @@
                 <div class="col-md-4 col-sm-6 col-xs-12 item-space">
                     <figure>
                         <a href="https://blogtech.boxgamemobile.com.br/" target="_blank">
-                            <img src="assets/images/project-3.png" alt="img02">
+                            <img src="assets/images/project-3.png" alt="Imagem site BlogTech Desenvolvedor Vinicius Cesar">
                         </a>
                         <figcaption>
                             <h3>Site | BlogTech</h3>
@@ -161,7 +182,7 @@
                 <div class="col-md-4 col-sm-6 col-xs-12 col-md-offset-4 item-space">
                     <figure>
                         <a href="https://www.behance.net/gallery/82439647/Template-Estudio" target="_blank">
-                            <img src="assets/images/project-4.png" alt="img04">
+                            <img src="assets/images/project-4.png" alt="Imagem site template estúdio Desenvolvedor Vinicius Cesar">
                         </a>
                         <figcaption>
                             <h3>Site | Estúdio</h3>
