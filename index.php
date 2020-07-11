@@ -33,6 +33,7 @@
     <link href='https://fonts.googleapis.com/css?family=Dosis:200,300,400,500|Lato:300,400,700,900,300italic,400italic,700italic,900italic|Raleway:400,200,300,500,100|Titillium+Web:400,200,300italic,300,200italic' rel='stylesheet' type='text/css'>
 
     <script src="assets/js/modernizr.js"></script>
+    <script src="https://www.google.com/recaptcha/api.js"></script>
 
 </head>
 
@@ -286,7 +287,7 @@
                     </div>
                     <div class="col-sm-6">
                         <h2 class="con-title">Entre em contato agora mesmo</h2>
-                        <form role="form" method="POST" action="email/index.php">
+                        <form role="form" method="POST" id="form" action="email/index.php">
                             <div class="form-group">
                                 <input type="text" class="form-control" name="nome" id="user_name" placeholder="Informe o seu nome">
                             </div>
@@ -296,8 +297,13 @@
                             <div class="form-group">
                                 <textarea name="mensagem" id="user_message" placeholder="Sua mensagem" class="form-control" rows="5" required></textarea>
                             </div>
+                            <div class="text-center">
+                                <div style="display: inline-block;" class="g-recaptcha" data-sitekey="6LcjHrAZAAAAAIxS78dstvpFzosFefCrFHbsRh3y"></div>
+                            </div>
 
                             <button type="submit" name="enviar" class="btn medium">Enviar</button>
+   
+</form>
                         </form>
                     </div>
                 </div>
@@ -333,6 +339,7 @@
             </div>
         </div>
     </footer>
+
     <script>
         particlesJS("particles-js", {
             "particles": {
