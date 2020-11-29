@@ -99,6 +99,24 @@ const Testimonial = ({
               </div>
             </div>
 
+            <div className="tiles-item reveal-from-left" data-reveal-delay="200">
+              <div className="tiles-item-inner">
+                <div className="testimonial-item-content">
+                  <p className="text-sm mb-0">
+                  — Trabalho com Vinicius desde 2015, sempre conciliando amizade e profissionalismo. Uma das pessoas que mais admiro e tenho como referência, juntos construímos muitos projetos. Observo comprometimento e bondade, determinação por aprender novas tecnologias e solucionar problemas complexos. 
+                      </p>
+                </div>
+                <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
+                <span className="testimonial-item-name text-color-high">Lucas Tangi</span>
+                  <span className="text-color-low"> / </span>
+                  <span className="testimonial-item-link">
+                    <a href="https://www.linkedin.com/in/lucas-tangi-800a33138/">LinkedIn</a>
+                  </span>
+                </div>
+              </div>
+            </div>
+          
+
           </div>
         </div>
       </div>
