@@ -9,3 +9,6 @@
 
 #### 3.0 - Add Material-UI
 - 3.1 - Version ^4.11.2 added
+
+#### 4.0 - Add Framer Motion
+- 4.1 - Version ^3.1.1 added

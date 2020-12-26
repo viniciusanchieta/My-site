@@ -1,5 +1,19 @@
-import styled from 'styled-components';
+import {createGlobalStyle} from 'styled-components';
 
-export const Container = styled.h1`
-    color: red;
+const Main = createGlobalStyle`
+
+    .title{
+        color: red;
+        font-size: 64px;
+    }
+
+    .text-center{
+        text-align: center;
+    }
+
+    .container-primary{
+        margin-top: 10%;
+    }
 `;  
+
+export default Main;

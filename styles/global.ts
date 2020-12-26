@@ -8,7 +8,6 @@ body {
   margin: 0;
   font-family: Roboto,sans-serif;
   background-color: #151719;
-  color: #5658dd;
 }
 
 a {
