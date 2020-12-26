@@ -8,6 +8,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "@material-ui/core": "^4.11.2",
     "@types/styled-components": "^5.1.7",
     "next": "10.0.4",
     "react": "17.0.1",
