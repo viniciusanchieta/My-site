@@ -5,3 +5,4 @@
 
 #### 2.0 - Add styled-components
 - 2.1 - Version ^5.2.1 added
+    - 2.1.1 - Global style created
